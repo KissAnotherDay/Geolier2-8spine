@@ -1,0 +1,16 @@
+{
+  "category:modules": [ 
+	{
+      "id": "tidal-geolier2",
+      "name": "Geolier2-Tidal",
+      "download": "Geolier_tidal.8spine",
+      "version": "v3.0.5",
+      "type": "MODULE",
+      "author": "Geolier2",
+      "description": "Tidal native stream with Dolby Atmos managed by Apple music brain",
+      "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "APPLE MUSIC"],
+      "featured": true,
+      "trusted": true
+    }
+  ]
+}
