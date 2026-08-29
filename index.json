@@ -1,0 +1,42 @@
+{
+  "category:modules": [ 
+	  {
+      "id": "tidal-geolier2",
+      "name": "Geolier2-Tidal",
+      "download": "Geolier_tidal.8spine",
+      "version": "v3.1.4",
+      "type": "MODULE",
+      "author": "Geolier2",
+      "description": "Tidal native stream with Dolby Atmos managed by Apple music brain",
+      "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "APPLE MUSIC"],
+      "featured": true,
+      "trusted": true
+    },
+
+    {
+      "id": "qobuz-geolier2",
+      "name": "Geolier2 x 8spine community",
+      "download": "Qobuz_tidal.8spine",
+      "version": "v8.0.0",
+      "type": "MODULE",
+      "author": "Geolier2",
+      "description": "Tidal native stream with Dolby Atmos managed by Apple music brain",
+      "tags": ["HI-RES", "DOBLY ATMOS", "QOBUZ", "TIDAL", "APPLE MUSIC"],
+      "featured": true,
+      "trusted": true
+    },
+
+    {
+      "id": "deezer-geolier2",
+      "name": "Geolier2-Deezer",
+      "download": "loki-mog.8spine",
+      "version": "v1.0.0",
+      "type": "MODULE",
+      "author": "Geolier2",
+      "description": "DEEZER MODULE",
+      "tags": ["HI-RES", "DEEZER"],
+      "featured": true,
+      "trusted": true
+    }
+  ]
+}
