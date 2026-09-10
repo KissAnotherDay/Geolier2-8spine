@@ -11,19 +11,6 @@
       "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "APPLE MUSIC"],
       "featured": true,
       "trusted": true
-    },
-
-    {
-      "id": "qobuz-geolier2",
-      "name": "Geolier2 x 8spine community",
-      "download": "Qobuz_tidal.8spine",
-      "version": "v8.0.2",
-      "type": "MODULE",
-      "author": "Geolier2",
-      "description": "Tidal native stream with Dolby Atmos managed by Apple music brain",
-      "tags": ["HI-RES", "DOBLY ATMOS", "QOBUZ", "TIDAL", "APPLE MUSIC"],
-      "featured": true,
-      "trusted": true
     }
   ]
 }
