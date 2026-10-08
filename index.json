@@ -1,0 +1,16 @@
+{
+  "category:modules": [ 
+	  {
+      "id": "tidal-geolier2",
+      "name": "Geolier (With Dolby Atmos)",
+      "download": "Geolier_tidal.8spine",
+      "version": "v3.2.5",
+      "type": "MODULE",
+      "author": "Geolier2",
+      "description": "A good module that also include dolby atmos",
+      "tags": ["HI-RES", "DOBLY ATMOS", "TIDAL", "APPLE MUSIC"],
+      "featured": true,
+      "trusted": true
+    }
+  ]
+}
